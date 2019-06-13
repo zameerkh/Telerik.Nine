@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportService", "ReportService\ReportService.csproj", "{F3C72CE9-78D3-4DB8-9EEE-3A14B0B7DDEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.Models", "Domain.Models\Domain.Models.csproj", "{4E147892-BA3B-4148-8A1E-1FD3D8E066EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F3C72CE9-78D3-4DB8-9EEE-3A14B0B7DDEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3C72CE9-78D3-4DB8-9EEE-3A14B0B7DDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3C72CE9-78D3-4DB8-9EEE-3A14B0B7DDEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E147892-BA3B-4148-8A1E-1FD3D8E066EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E147892-BA3B-4148-8A1E-1FD3D8E066EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E147892-BA3B-4148-8A1E-1FD3D8E066EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E147892-BA3B-4148-8A1E-1FD3D8E066EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
